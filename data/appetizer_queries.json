@@ -1,0 +1,36 @@
+{
+ "queries": [
+  {
+   "text": "Wo liegt San Diego?",
+   "expected": 108
+  },
+  {
+   "text": "Wer hat das Logo von Windows 8 entworfen?",
+   "expected": 164
+  },
+  {
+   "text": "Wie werden die NPOs finanziert?",
+   "expected": 255
+  },
+  {
+   "text": "Wie viel wiegt das Gehirn eines Mannes durchschnittlich?",
+   "expected": 92
+  },
+  {
+   "text": "Auf was beruhen Browserdatenstatistiken?",
+   "expected": 342
+  },
+  {
+   "text": "Durch was kann Zeit in der Musik erfahrbar gemacht werden?",
+   "expected": 157
+  },
+  {
+   "text": "Was ist armenische Kunst?",
+   "expected": 125
+  },
+  {
+   "text": "Was sind die wichtigsten Abschnitt Maßeinheits Größen des Korans?",
+   "expected": 18
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "device": null,
+ "note": "sec: gemessene Zeit in Sekunden (null = noch nicht gemessen); le: Lerneinheit, in der diese Ebene gebaut wird (Anzeige, solange sec fehlt). Messfalle in ms.",
+ "levels": {
+  "4  PyTorch (GPU)":       {"sec": null, "le": 6},
+  "5  torch.compile (GPU)": {"sec": null, "le": 8},
+  "6  CUDA-Kernel":         {"sec": null, "le": 9},
+  "7  Mojo":                {"sec": null, "le": 12}
+ },
+ "gpu_timing_trap": {"naive_ms": null, "correct_ms": null}
+}
