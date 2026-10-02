@@ -1,11 +1,31 @@
 {
- "device": null,
- "note": "sec: gemessene Zeit in Sekunden (null = noch nicht gemessen); le: Lerneinheit, in der diese Ebene gebaut wird (Anzeige, solange sec fehlt). Messfalle in ms.",
+ "device": "Tesla T4",
+ "note": "sec: gemessene Zeit in Sekunden (null = noch nicht gemessen); le: Lerneinheit, in der diese Ebene gebaut wird (Anzeige, solange sec fehlt). Messfalle in ms. python_sec: Ebene-1-Basis derselben Colab-Sitzung (schwankt dort von Sitzung zu Sitzung, ca. 1,6-5 s).",
  "levels": {
-  "4  PyTorch (GPU)":       {"sec": null, "le": 6},
-  "5  torch.compile (GPU)": {"sec": null, "le": 8},
-  "6  CUDA-Kernel":         {"sec": null, "le": 9},
-  "7  Mojo":                {"sec": null, "le": 12}
+  "3  PyTorch (CPU)": {
+   "sec": 0.00299,
+   "le": 6
+  },
+  "4  PyTorch (GPU)": {
+   "sec": 0.00026764599999751226,
+   "le": 6
+  },
+  "5  torch.compile (GPU)": {
+   "sec": null,
+   "le": 8
+  },
+  "6  CUDA-Kernel": {
+   "sec": null,
+   "le": 9
+  },
+  "7  Mojo": {
+   "sec": null,
+   "le": 12
+  }
  },
- "gpu_timing_trap": {"naive_ms": null, "correct_ms": null}
+ "gpu_timing_trap": {
+  "naive_ms": 0.696,
+  "correct_ms": 28.6
+ },
+ "python_sec": 1.843
 }
