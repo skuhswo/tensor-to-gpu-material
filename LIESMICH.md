@@ -17,3 +17,8 @@ und führen das Startskript aus (`start_lokal.sh` auf macOS/Linux,
 Die Dateien in `data/` gehören zu den Notebooks und werden bei Bedarf
 automatisch nachgeladen. Quellen und Lizenzen der Daten nennt das
 jeweilige Notebook in seinen Quellenangaben.
+
+Dieses Material wurde mit Unterstützung von KI-Werkzeugen entwickelt
+(Text und Code: Claude und ChatGPT, Karikaturen: Google Gemini). Alle
+Inhalte sind von Prof. Dr. Stephan Kurpjuweit konzipiert, geprüft und
+verantwortet.

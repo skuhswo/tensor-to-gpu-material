@@ -1,4 +1,5 @@
 {
+ "source": "Fragen aus GermanQuAD (deepset), CC BY 4.0 — https://huggingface.co/datasets/deepset/germanquad",
  "queries": [
   {
    "text": "Wo liegt San Diego?",

@@ -1,6 +1,7 @@
 {
  "source": "GermanQuAD (deepset), CC BY 4.0 — https://huggingface.co/datasets/deepset/germanquad",
  "model": "paraphrase-multilingual-MiniLM-L12-v2 (Apache 2.0)",
+ "text_source": "Absatztexte aus der deutschen Wikipedia, Lizenz CC BY-SA. Artikel zu einem Absatz: https://de.wikipedia.org/wiki/ gefolgt vom Wert in title (Leerzeichen als Unterstrich). Die Texte sind von Markup-Resten bereinigt und auf höchstens 1500 Zeichen gekürzt.",
  "passages": [
   {
    "id": 0,
