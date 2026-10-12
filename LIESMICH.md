@@ -4,8 +4,9 @@ Notebooks und Daten zum Modul „Tensor to GPU – Programmierkonzepte für KI"
 (Hochschule Worms, B.Sc. Angewandte Informatik).
 
 Je Lerneinheit finden Sie hier das Workbook (`LExx_workbook.ipynb`), das
-Skript (`LExx_skript.pdf`) und gegebenenfalls Ergänzungsmaterialien
-(`LExx_<thema>.*`). Der einfachste Einstieg sind die Colab-Links im
+Skript (`LExx_workbook_skript.pdf`), gegebenenfalls eine Referenzkarte
+(`LExx_referenzkarte_<thema>.pdf`) und Ergänzungsmaterialien
+(`LExx_<thema>.ipynb` mit `LExx_<thema>_skript.pdf`). Der einfachste Einstieg sind die Colab-Links im
 Moodle-Kurs; die Anleitung für alle Wege (Colab, lokal, Hochschul-Server)
 und die Bedienung der Notebooks steht im Begleitdokument
 „Entwicklungsumgebung" (`LE01_entwicklungsumgebung`, als Notebook und PDF).
